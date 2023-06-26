@@ -24,6 +24,7 @@ const ImageButton = styled.div`
       border-color: transparent;
     `}
   height: 40px;
+  width: 60px;
   padding: 2px;
   cursor: pointer;
   border-radius: 5px;
